@@ -1,6 +1,6 @@
 # Hello
- Rep com GitHub Desktop
+ GitHub Desktop - Direto no Site
 
 Olá Galera, este é um teste do Gitdesktop.
 
-Cristiano Antonio
+Cristiano do Nascimento Antonio
